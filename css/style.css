@@ -378,4 +378,8 @@ section.client {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.footer-last > .right > a {
+  color: #1b1c20;
 }/*# sourceMappingURL=style.css.map */

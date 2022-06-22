@@ -398,3 +398,7 @@ section.client {
 	justify-content: space-between;
 	align-items: center;
 }
+
+.footer-last > .right > a {
+	color: $header-color;
+}
